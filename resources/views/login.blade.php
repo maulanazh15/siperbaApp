@@ -7,6 +7,5 @@
     <title>Document</title>
 </head>
 <body>
-    LOGIN, berhasil pull   go jik gopal goblog
-</body>
+    
 </html>
