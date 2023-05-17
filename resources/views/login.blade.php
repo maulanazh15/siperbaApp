@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    LOGIN, berhasil pull   go jik ritha cocok nya sama fakhri
+    LOGIN, berhasil pull   go jik gopal goblog
 </body>
 </html>
