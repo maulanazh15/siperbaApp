@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    LOGIN
+    LOGIN, berhasil pull
 </body>
 </html>
